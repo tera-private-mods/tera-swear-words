@@ -1,6 +1,9 @@
 {
-    "servers": ["https://raw.githubusercontent.com/Kasea/tera-swear-words/master/"],
-    "supportUrl": "https://github.com/Kasea/tera-swear-words/issues",
-    "name": "Tera Swear/Curse Words",
-    "disableAutoUpdate": false
+    "name": "tera-swear-words",
+    "options": {
+        "niceName": "Tera Swear/Curse Words"
+    },
+    "servers": ["https://raw.githubusercontent.com/tera-private-mods/auto-target/master/"],
+    "disableAutoUpdate": false,
+    "description": "Description goes here."
 }
