@@ -3,7 +3,7 @@
     "options": {
         "niceName": "Tera Swear/Curse Words"
     },
-    "servers": ["https://raw.githubusercontent.com/tera-private-mods/auto-target/master/"],
+    "servers": ["https://raw.githubusercontent.com/tera-private-mods/tera-swear-words/master/"],
     "disableAutoUpdate": false,
     "description": "Description goes here."
 }
